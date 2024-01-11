@@ -1,0 +1,25 @@
+.education-footer {
+    background-color: #e2a2a2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .education-footer h3 {
+    color: #333;
+  }
+  
+  .education-footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .education-footer li {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .education-footer strong {
+    font-weight: bold;
+    color: #007bff; /* Warna teks yang menarik perhatian, dapat disesuaikan */
+  }
+  
